@@ -1,2 +1,3 @@
 # CoCo
-Something make you happy 
+Something make you happy ! errrr....
+In fact, the program can help you convert your favo. pic. to a elegant annotation~
